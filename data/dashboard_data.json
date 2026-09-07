@@ -1,0 +1,279 @@
+{
+  "kpi": {
+    "total_orders": 6000,
+    "total_revenue": 47402174.75,
+    "total_units_sold": 20510,
+    "avg_order_value": 7900.36,
+    "total_discount_given": 1834515.25,
+    "unique_products": 15,
+    "unique_regions": 5,
+    "unique_sales_reps": 10
+  },
+  "monthly": [
+    {
+      "order_month": "2024-01",
+      "revenue": 1540653.3,
+      "orders": 255,
+      "units": 735
+    },
+    {
+      "order_month": "2024-02",
+      "revenue": 1410723.0,
+      "orders": 244,
+      "units": 718
+    },
+    {
+      "order_month": "2024-03",
+      "revenue": 1714845.1,
+      "orders": 258,
+      "units": 801
+    },
+    {
+      "order_month": "2024-04",
+      "revenue": 1878737.35,
+      "orders": 243,
+      "units": 813
+    },
+    {
+      "order_month": "2024-05",
+      "revenue": 1383282.05,
+      "orders": 239,
+      "units": 690
+    },
+    {
+      "order_month": "2024-06",
+      "revenue": 1595488.6,
+      "orders": 234,
+      "units": 721
+    },
+    {
+      "order_month": "2024-07",
+      "revenue": 1818757.9,
+      "orders": 258,
+      "units": 814
+    },
+    {
+      "order_month": "2024-08",
+      "revenue": 2077653.35,
+      "orders": 266,
+      "units": 805
+    },
+    {
+      "order_month": "2024-09",
+      "revenue": 2002095.5,
+      "orders": 281,
+      "units": 838
+    },
+    {
+      "order_month": "2024-10",
+      "revenue": 2929080.3,
+      "orders": 250,
+      "units": 1042
+    },
+    {
+      "order_month": "2024-11",
+      "revenue": 2289747.9,
+      "orders": 243,
+      "units": 1078
+    },
+    {
+      "order_month": "2024-12",
+      "revenue": 2553360.0,
+      "orders": 234,
+      "units": 987
+    },
+    {
+      "order_month": "2025-01",
+      "revenue": 2201947.9,
+      "orders": 267,
+      "units": 807
+    },
+    {
+      "order_month": "2025-02",
+      "revenue": 1567343.9,
+      "orders": 225,
+      "units": 725
+    },
+    {
+      "order_month": "2025-03",
+      "revenue": 1708197.0,
+      "orders": 245,
+      "units": 823
+    },
+    {
+      "order_month": "2025-04",
+      "revenue": 1634451.05,
+      "orders": 250,
+      "units": 811
+    },
+    {
+      "order_month": "2025-05",
+      "revenue": 2084917.25,
+      "orders": 253,
+      "units": 767
+    },
+    {
+      "order_month": "2025-06",
+      "revenue": 1813467.9,
+      "orders": 239,
+      "units": 753
+    },
+    {
+      "order_month": "2025-07",
+      "revenue": 1788218.5,
+      "orders": 246,
+      "units": 751
+    },
+    {
+      "order_month": "2025-08",
+      "revenue": 1733100.9,
+      "orders": 257,
+      "units": 785
+    },
+    {
+      "order_month": "2025-09",
+      "revenue": 1814512.25,
+      "orders": 253,
+      "units": 769
+    },
+    {
+      "order_month": "2025-10",
+      "revenue": 3192422.45,
+      "orders": 240,
+      "units": 1060
+    },
+    {
+      "order_month": "2025-11",
+      "revenue": 1876816.5,
+      "orders": 248,
+      "units": 1103
+    },
+    {
+      "order_month": "2025-12",
+      "revenue": 2792354.8,
+      "orders": 272,
+      "units": 1314
+    }
+  ],
+  "region": [
+    {
+      "region": "South",
+      "revenue": 9775097.7,
+      "orders": 1227,
+      "avg_order_value": 7966.66
+    },
+    {
+      "region": "North",
+      "revenue": 9622218.05,
+      "orders": 1175,
+      "avg_order_value": 8189.12
+    },
+    {
+      "region": "East",
+      "revenue": 9528764.55,
+      "orders": 1275,
+      "avg_order_value": 7473.54
+    },
+    {
+      "region": "Central",
+      "revenue": 9242430.9,
+      "orders": 1137,
+      "avg_order_value": 8128.79
+    },
+    {
+      "region": "West",
+      "revenue": 9233663.55,
+      "orders": 1186,
+      "avg_order_value": 7785.55
+    }
+  ],
+  "category": [
+    {
+      "category": "Furniture",
+      "revenue": 26381936.5,
+      "units_sold": 4039
+    },
+    {
+      "category": "Electronics",
+      "revenue": 8535177.6,
+      "units_sold": 5509
+    },
+    {
+      "category": "Fitness",
+      "revenue": 6111020.1,
+      "units_sold": 4134
+    },
+    {
+      "category": "Accessories",
+      "revenue": 3567698.0,
+      "units_sold": 2752
+    },
+    {
+      "category": "Stationery",
+      "revenue": 2806342.55,
+      "units_sold": 4076
+    }
+  ],
+  "reps": [
+    {
+      "sales_rep": "Priya Nair",
+      "region": "South",
+      "revenue": 5392231.45,
+      "orders": 627
+    },
+    {
+      "sales_rep": "Arjun Kapoor",
+      "region": "Central",
+      "revenue": 5104820.1,
+      "orders": 591
+    },
+    {
+      "sales_rep": "Karan Malhotra",
+      "region": "East",
+      "revenue": 4885126.85,
+      "orders": 647
+    },
+    {
+      "sales_rep": "Vikram Singh",
+      "region": "West",
+      "revenue": 4863038.45,
+      "orders": 595
+    },
+    {
+      "sales_rep": "Aarav Shah",
+      "region": "North",
+      "revenue": 4846739.1,
+      "orders": 582
+    },
+    {
+      "sales_rep": "Isha Verma",
+      "region": "North",
+      "revenue": 4775478.95,
+      "orders": 593
+    },
+    {
+      "sales_rep": "Sneha Roy",
+      "region": "East",
+      "revenue": 4643637.7,
+      "orders": 628
+    },
+    {
+      "sales_rep": "Rohan Mehta",
+      "region": "South",
+      "revenue": 4382866.25,
+      "orders": 600
+    },
+    {
+      "sales_rep": "Ananya Iyer",
+      "region": "West",
+      "revenue": 4370625.1,
+      "orders": 591
+    },
+    {
+      "sales_rep": "Devika Rao",
+      "region": "Central",
+      "revenue": 4137610.8,
+      "orders": 546
+    }
+  ]
+}
